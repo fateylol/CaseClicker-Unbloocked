@@ -1348,6 +1348,8 @@ div.knife {
 	width: 150px;
 	height: 40px;
 	background: linear-gradient(#1d7751, #0e382c);
+        justify-content: space=around;
+        display: flex;
 	border: 2px #25793b solid;
 	border-radius: 5px;
 	text-shadow: 0 0 10px rgba(255,255,255,0.3);
